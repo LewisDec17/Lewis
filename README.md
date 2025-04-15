@@ -1,4 +1,7 @@
 # Lewis
+更新日期：2025.04.15 Tuesday
+自用。其他人不建议用，因为会不定期修改或删除。
+
 All-in-One-2025.ini
 
 custom_proxy_group=🇭🇰 香港节点`select`(?=.*(香港|HK|Hong Kong|🇭🇰|HongKong))^((?!(游戏|剩余|流量)).)*$
