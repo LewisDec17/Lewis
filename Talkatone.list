@@ -16,8 +16,5 @@ DOMAIN-SUFFIX,d.tktn.be
 DOMAIN-SUFFIX,cdn.mobilefuse.com
 DOMAIN-SUFFIX,ep7.facebook.com
 # IP段匹配
-IP-CIDR,205.164.56.27.0/20,no-resolve
-IP-CIDR,205.164.56.28.0/20,no-resolve
-IP-CIDR,205.164.56.30.0/20,no-resolve
-IP-CIDR,69.46.75.86.0/20,no-resolve
-IP-CIDR,69.46.75.85.0/20,no-resolve
+IP-CIDR,205.164.56.0.0/20,no-resolve
+IP-CIDR,69.46.75.0.0/20,no-resolve
