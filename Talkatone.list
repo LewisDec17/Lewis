@@ -13,3 +13,8 @@ DOMAIN-SUFFIX,ssp.api.tappx.com
 DOMAIN-SUFFIX,ext.track.tappx.com
 DOMAIN-SUFFIX,mfx.mobilefuse.com
 DOMAIN-SUFFIX,d.tktn.be
+DOMAIN-SUFFIX,cdn.mobilefuse.com
+DOMAIN-SUFFIX,ep7.facebook.com
+# IP段匹配
+IP-CIDR,205.164.56.27.0/20,no-resolve
+IP-CIDR,69.46.75.86.0/20,no-resolve
