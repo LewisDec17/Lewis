@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,mfx.mobilefuse.com
 DOMAIN-SUFFIX,d.tktn.be
 DOMAIN-SUFFIX,cdn.mobilefuse.com
 DOMAIN-SUFFIX,ep7.facebook.com
+DOMAIN-SUFFIX,a1.tktn.be:8443
 # IP段匹配
 IP-CIDR,205.164.56.0.0/20,no-resolve
 IP-CIDR,69.46.75.0.0/20,no-resolve
