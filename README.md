@@ -16,10 +16,14 @@ custom_proxy_group=⭐ 台湾故转`fallback`!!GROUPID=!0!!(台湾|台灣|台|�
 
 “)(?!.*(” 包含后面的
 
-。
+#  Lewis2025.ini
+0
 
-# Talkatone.list
-电话
+
 
 # ACL4SSR_Online_Full.ini
 同后台
+
+
+# Talkatone.list
+电话
