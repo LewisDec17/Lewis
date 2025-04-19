@@ -2,14 +2,14 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # ByteDance
-DOMAIN-SUFFIX,douyin.com
-DOMAIN-SUFFIX,douyincdn.com
-DOMAIN-SUFFIX,douyinpic.com
-DOMAIN-SUFFIX,douyinstatic.com
-DOMAIN-SUFFIX,douyinvod.com
-DOMAIN-SUFFIX,iesdouyin.com
-DOMAIN-SUFFIX,xiaohongshu.com
-DOMAIN-SUFFIX,zijieapi.com
-DOMAIN-SUFFIX,zijieimg.com
-DOMAIN-SUFFIX,zjbyte.com
-DOMAIN-SUFFIX,zjcdn.com
+# DOMAIN-SUFFIX,douyin.com
+# DOMAIN-SUFFIX,douyincdn.com
+# DOMAIN-SUFFIX,douyinpic.com
+# DOMAIN-SUFFIX,douyinstatic.com
+# DOMAIN-SUFFIX,douyinvod.com
+# DOMAIN-SUFFIX,iesdouyin.com
+# DOMAIN-SUFFIX,xiaohongshu.com
+# DOMAIN-SUFFIX,zijieapi.com
+# DOMAIN-SUFFIX,zijieimg.com
+# DOMAIN-SUFFIX,zjbyte.com
+# DOMAIN-SUFFIX,zjcdn.com
