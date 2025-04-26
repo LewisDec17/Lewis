@@ -39,6 +39,20 @@ DOMAIN-SUFFIX,so.com
 # 58
 DOMAIN-SUFFIX,58.com
 
+# Apple
+# 名字关键字匹配
+PROCESS-NAME,apple
+PROCESS-NAME,itunes
+PROCESS-NAME,icloud
+# 域名关键字匹配
+DOMAIN-KEYWORD,apple
+DOMAIN-KEYWORD,itunes
+DOMAIN-KEYWORD,icloud
+# 域名后缀匹配
+DOMAIN-SUFFIX,bag.itunes.apple.com
+DOMAIN-SUFFIX,courier.push.apple.com
+DOMAIN-SUFFIX,icloud.com
+
 # Alibaba
 DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,aliapp.org
