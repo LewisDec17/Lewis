@@ -21,4 +21,3 @@ DOMAIN-SUFFIX,a1.tktn.be
 # IP段匹配
 IP-CIDR,205.164.56.0.0/20,no-resolve
 IP-CIDR,69.46.75.0.0/20,no-resolve
-IP-CIDR,223.109.215.39/20,no-resolve
