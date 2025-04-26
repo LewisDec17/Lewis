@@ -16,8 +16,8 @@ DOMAIN-SUFFIX,d.tktn.be
 DOMAIN-SUFFIX,cdn.mobilefuse.com
 DOMAIN-SUFFIX,ep7.facebook.com
 DOMAIN-SUFFIX,a1.tktn.be
-DOMAIN-SUFFIX,bag.itunes.apple.com
-DOMAIN-SUFFIX,courier.push.apple.com
+# DOMAIN-SUFFIX,bag.itunes.apple.com
+# DOMAIN-SUFFIX,courier.push.apple.com
 # IP段匹配
 IP-CIDR,205.164.56.0.0/20,no-resolve
 IP-CIDR,69.46.75.0.0/20,no-resolve
