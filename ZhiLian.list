@@ -1,16 +1,23 @@
 # 自用
 # 更新日期：2025.05.28 Wednesday
 # 内容：国内直连
+
 # 名字关键字匹配#
 PROCESS-NAME,chinagoods
 PROCESS-NAME,huma.ysepan
+PROCESS-NAME,ysepan
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,chinagoods
 DOMAIN-KEYWORD,huma.ysepan
+DOMAIN-KEYWORD,ysepan
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,chinagoods.com
-DOMAIN-SUFFIX,huma.ysepan.com/
+DOMAIN-SUFFIX,fuwu.chinagoods.com
+DOMAIN-SUFFIX,work.chinagoods.com
+DOMAIN-SUFFIX,huma.ysepan.com
+
 
 # IP段匹配
 #IP-CIDR,205.164.56.0.0/20,no-resolve
