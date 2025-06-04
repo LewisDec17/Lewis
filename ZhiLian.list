@@ -1,0 +1,46 @@
+# 自用
+# 更新日期：2025.05.28 Wednesday
+# 内容：talkatone
+#;https://www.talkatone.com/
+# 名字关键字匹配
+PROCESS-NAME,talkatone
+# 域名关键字匹配
+DOMAIN-KEYWORD,talkatone
+DOMAIN-KEYWORD,cnt.tktn
+DOMAIN-KEYWORD,googleads
+# 域名后缀匹配
+DOMAIN-SUFFIX,mobilefuse.com
+DOMAIN-SUFFIX,inmobi.com
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,talkatone.com
+DOMAIN-SUFFIX,kochava.com
+DOMAIN-SUFFIX,tktn.be
+DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,agkn.com
+DOMAIN-SUFFIX,tktn.at
+DOMAIN-SUFFIX,ads.inmobi.com
+DOMAIN-SUFFIX,tappx.com
+DOMAIN-SUFFIX,criteo.com
+DOMAIN-SUFFIX,pubmatic.com
+DOMAIN-SUFFIX,smaato.net
+DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-SUFFIX,adsappier.com
+DOMAIN-SUFFIX,appier.net
+DOMAIN-SUFFIX,appiersig.com
+DOMAIN-SUFFIX,cnt.tktn.be
+DOMAIN-SUFFIX,xmpp4.tktn.be
+DOMAIN-SUFFIX,ssp.api.tappx.com
+DOMAIN-SUFFIX,ext.track.tappx.com
+DOMAIN-SUFFIX,mfx.mobilefuse.com
+DOMAIN-SUFFIX,d.tktn.be
+DOMAIN-SUFFIX,cdn.mobilefuse.com
+DOMAIN-SUFFIX,ep7.facebook.com
+DOMAIN-SUFFIX,a1.tktn.be:8443
+# IP段匹配
+IP-CIDR,205.164.56.0.0/20,no-resolve
+IP-CIDR,69.46.75.0.0/20,no-resolve
+IP-CIDR,50.117.27.0/24,no-resolve
+IP-CIDR,69.46.75.0/24,no-resolve
+IP-CIDR,205.164.56.0/24,no-resolve
+IP-CIDR,63.251.124.0/24,no-resolve
