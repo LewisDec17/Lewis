@@ -6,12 +6,21 @@
 PROCESS-NAME,chinagoods
 PROCESS-NAME,huma.ysepan
 PROCESS-NAME,ysepan
+PROCESS-NAME,portal.yw56
+PROCESS-NAME,yw56
+PROCESS-NAME,dispatch.yanwentech
+PROCESS-NAME,yanwentech
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,chinagoods
 DOMAIN-KEYWORD,huma.ysepan
 DOMAIN-KEYWORD,ysepan
 DOMAIN-KEYWORD,yiwugo
+DOMAIN-KEYWORD,portal.yw56
+DOMAIN-KEYWORD,yw56
+DOMAIN-KEYWORD,track.yw56
+DOMAIN-KEYWORD,dispatch.yanwentech
+DOMAIN-KEYWORD,yanwentech
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,chinagoods.com
@@ -19,7 +28,14 @@ DOMAIN-SUFFIX,fuwu.chinagoods.com
 DOMAIN-SUFFIX,work.chinagoods.com
 DOMAIN-SUFFIX,huma.ysepan.com
 DOMAIN-SUFFIX,huma.yiwugo.com
-
+DOMAIN-SUFFIX,portal.yw56.com.cn
+DOMAIN-SUFFIX,portal.yw56.com
+DOMAIN-SUFFIX,track.yw56.com.cn
+DOMAIN-SUFFIX,track.yw56.com
+DOMAIN-SUFFIX,yw56.com
+DOMAIN-SUFFIX,track.yw56.com.cn
+DOMAIN-SUFFIX,dispatch.yanwentech.com
+DOMAIN-SUFFIX,yanwentech.com
 
 # IP段匹配
 #IP-CIDR,205.164.56.0.0/20,no-resolve
