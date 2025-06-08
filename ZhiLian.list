@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,yw56.com
 DOMAIN-SUFFIX,track.yw56.com.cn
 DOMAIN-SUFFIX,dispatch.yanwentech.com
 DOMAIN-SUFFIX,yanwentech.com
+DOMAIN-SUFFIX,sellercentral.amazon.com
 
 # IP段匹配
 #IP-CIDR,205.164.56.0.0/20,no-resolve
