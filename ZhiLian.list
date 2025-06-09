@@ -10,6 +10,8 @@ PROCESS-NAME,portal.yw56
 PROCESS-NAME,yw56
 PROCESS-NAME,dispatch.yanwentech
 PROCESS-NAME,yanwentech
+PROCESS-NAME,portal.worldfirst
+PROCESS-NAME,worldfirst
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,chinagoods
@@ -21,6 +23,8 @@ DOMAIN-KEYWORD,yw56
 DOMAIN-KEYWORD,track.yw56
 DOMAIN-KEYWORD,dispatch.yanwentech
 DOMAIN-KEYWORD,yanwentech
+DOMAIN-KEYWORD,portal.worldfirst
+DOMAIN-KEYWORD,worldfirst.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,chinagoods.com
@@ -37,6 +41,8 @@ DOMAIN-SUFFIX,track.yw56.com.cn
 DOMAIN-SUFFIX,dispatch.yanwentech.com
 DOMAIN-SUFFIX,yanwentech.com
 DOMAIN-SUFFIX,sellercentral.amazon.com
+DOMAIN-SUFFIX,portal.worldfirst.com.cn
+DOMAIN-SUFFIX,worldfirst.com.cn
 
 # IP段匹配
 #IP-CIDR,205.164.56.0.0/20,no-resolve
