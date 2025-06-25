@@ -1,8 +1,9 @@
 # Lewis
 
-# 更新日期：2025.04.15 Tuesday
+# 更新日期：Wed, Jun 25, 2025
 
 # 自用规则。其他人不建议用，因为会根据自己需求不定期修改或删除。
+# Please note: These rules are tailored for personal use and may be updated or removed irregularly. External use is not recommended
 
 # All-in-One-2025.ini
 
