@@ -1,12 +1,38 @@
 # 自定义规则集
 # 直连补充列表(国内域名不解析时，防止走代理使用)
+# 更新日期：2025.11.01 星期六
+# 内容：默认端口
+
+# 名字关键字匹配#
+PROCESS-NAME,douyinvod
+PROCESS-NAME,douyinvod
+PROCESS-NAME,alibaba
+PROCESS-NAME,aidevice
+PROCESS-NAME,aliyuncs
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,v95-hzyy-thr-daily-b.douyinvod
+DOMAIN-KEYWORD,n98-v-ncdncold.douyinvod
+DOMAIN-KEYWORD,v26-hl-cold.douyinvod.com.51296c5e.c.cdnhwc1
+DOMAIN-KEYWORD,v95-hzyy-thr-daily-b.douyinvod
+DOMAIN-KEYWORD,v5-gz2-x.douyinvod
+DOMAIN-KEYWORD,v5-gz-colda.douyinvod
+DOMAIN-KEYWORD,v26-hl-cold.douyinvod
 
 # ByteDance
+# 域名后缀匹配
+DOMAIN-SUFFIX,v95-hzyy-thr-daily-b.douyinvod.com
 DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,douyincdn.com
 DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,douyinstatic.com
 DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,n98-v-ncdncold.douyinvod.com
+DOMAIN-SUFFIX,v26-hl-cold.douyinvod.com.51296c5e.c.cdnhwc1.com
+DOMAIN-SUFFIX,v95-hzyy-thr-daily-b.douyinvod.com
+DOMAIN-SUFFIX,v5-gz2-x.douyinvod.com
+DOMAIN-SUFFIX,v5-gz-colda.douyinvod.com
+DOMAIN-SUFFIX,v26-hl-cold.douyinvod.com
 DOMAIN-SUFFIX,iesdouyin.com
 DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,zijieapi.com
