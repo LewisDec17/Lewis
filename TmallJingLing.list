@@ -5,12 +5,33 @@
 # 名字关键字匹配#
 PROCESS-NAME,g-aicloud.alibaba
 PROCESS-NAME,tmjl-device-rawdata.oss-cn-zhangjiakou.aliyuncs
+PROCESS-NAME,alibaba-cn-pvg-00001.oss-enet.aliyuncs
+PROCESS-NAME,aidevice.cn-hangzhou.log.aliyuncs
+PROCESS-NAME,time.g.aaplimg
+PROCESS-NAME,myip.ipip
+PROCESS-NAME,iot101.music.126
+PROCESS-NAME,entityimg.alicdn
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,g-aicloud.alibaba
 DOMAIN-KEYWORD,tmjl-device-rawdata.oss-cn-zhangjiakou.aliyuncs
+DOMAIN-KEYWORD,alibaba-cn-pvg-00001.oss-enet.aliyuncs
+DOMAIN-KEYWORD,aidevice.cn-hangzhou.log.aliyuncs
+DOMAIN-KEYWORD,time.g.aaplimg
+DOMAIN-KEYWORD,myip.ipip
+DOMAIN-KEYWORD,iot101.music.126
+DOMAIN-KEYWORD,entityimg.alicdn
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,g-aicloud.alibaba.com
 DOMAIN-SUFFIX,tmjl-device-rawdata.oss-cn-zhangjiakou.aliyuncs.com
+DOMAIN-SUFFIX,alibaba-cn-pvg-00001.oss-enet.aliyuncs.com
+DOMAIN-SUFFIX,aidevice.cn-hangzhou.log.aliyuncs.com
+DOMAIN-SUFFIX,time.g.aaplimg.com
+DOMAIN-SUFFIX,myip.ipip.net
+DOMAIN-SUFFIX,iot101.music.126.net
+DOMAIN-SUFFIX,entityimg.alicdn.com
 
+# IP段匹配
+IP-CIDR,139.199.214.202:123,no-resolve
+IP-CIDR,139.199.215.251:1230,no-resolve
