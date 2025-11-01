@@ -4,6 +4,9 @@
 
 # 名字关键字匹配#
 PROCESS-NAME,g-aicloud.alibaba
+PROCESS-NAME,alibaba
+PROCESS-NAME,aidevice
+PROCESS-NAME,aliyuncs
 PROCESS-NAME,tmjl-device-rawdata.oss-cn-zhangjiakou.aliyuncs
 PROCESS-NAME,alibaba-cn-pvg-00001.oss-enet.aliyuncs
 PROCESS-NAME,aidevice.cn-hangzhou.log.aliyuncs
@@ -12,9 +15,15 @@ PROCESS-NAME,myip.ipip
 PROCESS-NAME,iot101.music.126
 PROCESS-NAME,entityimg.alicdn
 PROCESS-NAME,fsdg360.tx.kugou
+PROCESS-NAME,aidevice.cn-hangzhou.log.aliyuncs
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,g-aicloud.alibaba
+DOMAIN-KEYWORD,alibaba
+DOMAIN-KEYWORD,entityimg
+DOMAIN-KEYWORD,alicdn
+DOMAIN-KEYWORD,aidevice
+DOMAIN-KEYWORD,aliyuncs
 DOMAIN-KEYWORD,tmjl-device-rawdata.oss-cn-zhangjiakou.aliyuncs
 DOMAIN-KEYWORD,alibaba-cn-pvg-00001.oss-enet.aliyuncs
 DOMAIN-KEYWORD,aidevice.cn-hangzhou.log.aliyuncs
@@ -23,6 +32,7 @@ DOMAIN-KEYWORD,myip.ipip
 DOMAIN-KEYWORD,iot101.music.126
 DOMAIN-KEYWORD,entityimg.alicdn
 DOMAIN-KEYWORD,fsdg360.tx.kugou
+DOMAIN-KEYWORD,aidevice.cn-hangzhou.log.aliyuncs
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,g-aicloud.alibaba.com
@@ -34,6 +44,7 @@ DOMAIN-SUFFIX,myip.ipip.net
 DOMAIN-SUFFIX,iot101.music.126.net
 DOMAIN-SUFFIX,entityimg.alicdn.com
 DOMAIN-SUFFIX,fsdg360.tx.kugou.com
+DOMAIN-SUFFIX,aidevice.cn-hangzhou.log.aliyuncs.com
 
 # IP段匹配
 IP-CIDR,139.199.214.202:123,no-resolve
