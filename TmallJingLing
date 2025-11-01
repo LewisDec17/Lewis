@@ -1,1 +1,16 @@
+# 天猫精灵
+# 更新日期：2025.11.01 星期六
+# 内容：默认端口
+
+# 名字关键字匹配#
+PROCESS-NAME,g-aicloud.alibaba
+PROCESS-NAME,tmjl-device-rawdata.oss-cn-zhangjiakou.aliyuncs
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,g-aicloud.alibaba
+DOMAIN-KEYWORD,tmjl-device-rawdata.oss-cn-zhangjiakou.aliyuncs
+
+# 域名后缀匹配
 DOMAIN-SUFFIX,g-aicloud.alibaba.com
+DOMAIN-SUFFIX,tmjl-device-rawdata.oss-cn-zhangjiakou.aliyuncs.com
+
