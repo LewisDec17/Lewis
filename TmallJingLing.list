@@ -11,6 +11,7 @@ PROCESS-NAME,time.g.aaplimg
 PROCESS-NAME,myip.ipip
 PROCESS-NAME,iot101.music.126
 PROCESS-NAME,entityimg.alicdn
+PROCESS-NAME,fsdg360.tx.kugou
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,g-aicloud.alibaba
@@ -21,6 +22,7 @@ DOMAIN-KEYWORD,time.g.aaplimg
 DOMAIN-KEYWORD,myip.ipip
 DOMAIN-KEYWORD,iot101.music.126
 DOMAIN-KEYWORD,entityimg.alicdn
+DOMAIN-KEYWORD,fsdg360.tx.kugou
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,g-aicloud.alibaba.com
@@ -31,6 +33,7 @@ DOMAIN-SUFFIX,time.g.aaplimg.com
 DOMAIN-SUFFIX,myip.ipip.net
 DOMAIN-SUFFIX,iot101.music.126.net
 DOMAIN-SUFFIX,entityimg.alicdn.com
+DOMAIN-SUFFIX,fsdg360.tx.kugou.com
 
 # IP段匹配
 IP-CIDR,139.199.214.202:123,no-resolve
