@@ -4,71 +4,71 @@
 # 内容：默认端口
 
 # 名字关键字匹配#
-PROCESS-NAME,douyinvod
-PROCESS-NAME,douyinpic
-PROCESS-NAME,cdnhwc1
-PROCESS-NAME,alikunlun
-PROCESS-NAME,chinamobile
-PROCESS-NAME,51296c5e
-PROCESS-NAME,douyinstatic
-PROCESS-NAME,dig.bdurl
-PROCESS-NAME,bdurl
-PROCESS-NAME,alibaba
-PROCESS-NAME,aidevice
-PROCESS-NAME,aliyuncs
+#PROCESS-NAME,douyinvod
+#PROCESS-NAME,douyinpic
+#PROCESS-NAME,cdnhwc1
+#PROCESS-NAME,alikunlun
+#PROCESS-NAME,chinamobile
+#PROCESS-NAME,51296c5e
+#PROCESS-NAME,douyinstatic
+#PROCESS-NAME,dig.bdurl
+#PROCESS-NAME,bdurl
+#PROCESS-NAME,alibaba
+#PROCESS-NAME,aidevice
+#PROCESS-NAME,aliyuncs
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,v95-hzyy-thr-daily-b.douyinvod
-DOMAIN-KEYWORD,n98-v-ncdncold.douyinvod
-DOMAIN-KEYWORD,v26-hl-cold.douyinvod.com.51296c5e.c.cdnhwc1
-DOMAIN-KEYWORD,v95-hzyy-thr-daily-b.douyinvod
-DOMAIN-KEYWORD,v5-gz2-x.douyinvod
-DOMAIN-KEYWORD,v5-gz-colda.douyinvod
-DOMAIN-KEYWORD,v26-hl-cold.douyinvod
-DOMAIN-KEYWORD,v5-gz2-colda.douyinvod.com.cdn.chinamobile
-DOMAIN-KEYWORD,v26-music.douyinstatic.com.51296c5e.c.cdnhwc1
-DOMAIN-KEYWORD,51296c5e.c.cdnhwc1
-DOMAIN-KEYWORD,v26-music.douyinstatic
-DOMAIN-KEYWORD,dig.bdurl
-DOMAIN-KEYWORD,p3-sign.douyinpic
-DOMAIN-KEYWORD,p3-sign.douyinpic.com.w.alikunlun
-DOMAIN-KEYWORD,w.alikunlun
-DOMAIN-KEYWORD,p26-sign.douyinpic
-DOMAIN-KEYWORD,p26-sign.douyinpic.com.51296c5e.c.cdnhwc1
-DOMAIN-KEYWORD,51296c5e.c.cdnhwc1
+#DOMAIN-KEYWORD,v95-hzyy-thr-daily-b.douyinvod
+#DOMAIN-KEYWORD,n98-v-ncdncold.douyinvod
+#DOMAIN-KEYWORD,v26-hl-cold.douyinvod.com.51296c5e.c.cdnhwc1
+#DOMAIN-KEYWORD,v95-hzyy-thr-daily-b.douyinvod
+#DOMAIN-KEYWORD,v5-gz2-x.douyinvod
+#DOMAIN-KEYWORD,v5-gz-colda.douyinvod
+#DOMAIN-KEYWORD,v26-hl-cold.douyinvod
+#DOMAIN-KEYWORD,v5-gz2-colda.douyinvod.com.cdn.chinamobile
+#DOMAIN-KEYWORD,v26-music.douyinstatic.com.51296c5e.c.cdnhwc1
+#DOMAIN-KEYWORD,51296c5e.c.cdnhwc1
+#DOMAIN-KEYWORD,v26-music.douyinstatic
+#DOMAIN-KEYWORD,dig.bdurl
+#DOMAIN-KEYWORD,p3-sign.douyinpic
+#DOMAIN-KEYWORD,p3-sign.douyinpic.com.w.alikunlun
+#DOMAIN-KEYWORD,w.alikunlun
+#DOMAIN-KEYWORD,p26-sign.douyinpic
+#DOMAIN-KEYWORD,p26-sign.douyinpic.com.51296c5e.c.cdnhwc1
+#DOMAIN-KEYWORD,51296c5e.c.cdnhwc1
 
 # ByteDance
 # 域名后缀匹配
-DOMAIN-SUFFIX,v95-hzyy-thr-daily-b.douyinvod.com
-DOMAIN-SUFFIX,douyin.com
-DOMAIN-SUFFIX,douyincdn.com
-DOMAIN-SUFFIX,douyinpic.com
-DOMAIN-SUFFIX,douyinstatic.com
-DOMAIN-SUFFIX,douyinvod.com
-DOMAIN-SUFFIX,n98-v-ncdncold.douyinvod.com
-DOMAIN-SUFFIX,v26-hl-cold.douyinvod.com.51296c5e.c.cdnhwc1.com
-DOMAIN-SUFFIX,v95-hzyy-thr-daily-b.douyinvod.com
-DOMAIN-SUFFIX,v5-gz2-x.douyinvod.com
-DOMAIN-SUFFIX,v5-gz-colda.douyinvod.com
-DOMAIN-SUFFIX,v26-hl-cold.douyinvod.com
-DOMAIN-SUFFIX,p3-sign.douyinpic.com.w.alikunlun.com
-DOMAIN-SUFFIX,v5-gz2-colda.douyinvod.com.cdn.chinamobile.com
-DOMAIN-SUFFIX,v26-music.douyinstatic.com.51296c5e.c.cdnhwc1.com
-DOMAIN-SUFFIX,p26-sign.douyinpic.com.51296c5e.c.cdnhwc1.com
-DOMAIN-SUFFIX,v26-colda.douyinvod.com.51296c5e.c.cdnhwc1.com
-DOMAIN-SUFFIX,v26-colda.douyinvod.com
-DOMAIN-SUFFIX,douyinvod.com
-DOMAIN-SUFFIX,iesdouyin.com
-DOMAIN-SUFFIX,xiaohongshu.com
-DOMAIN-SUFFIX,zijieapi.com
-DOMAIN-SUFFIX,zijieimg.com
-DOMAIN-SUFFIX,zjbyte.com
-DOMAIN-SUFFIX,zjcdn.com
-DOMAIN-SUFFIX,dig.bdurl.net
+#DOMAIN-SUFFIX,v95-hzyy-thr-daily-b.douyinvod.com
+#DOMAIN-SUFFIX,douyin.com
+#DOMAIN-SUFFIX,douyincdn.com
+#DOMAIN-SUFFIX,douyinpic.com
+#DOMAIN-SUFFIX,douyinstatic.com
+#DOMAIN-SUFFIX,douyinvod.com
+#DOMAIN-SUFFIX,n98-v-ncdncold.douyinvod.com
+#DOMAIN-SUFFIX,v26-hl-cold.douyinvod.com.51296c5e.c.cdnhwc1.com
+#DOMAIN-SUFFIX,v95-hzyy-thr-daily-b.douyinvod.com
+#DOMAIN-SUFFIX,v5-gz2-x.douyinvod.com
+#DOMAIN-SUFFIX,v5-gz-colda.douyinvod.com
+#DOMAIN-SUFFIX,v26-hl-cold.douyinvod.com
+#DOMAIN-SUFFIX,p3-sign.douyinpic.com.w.alikunlun.com
+#DOMAIN-SUFFIX,v5-gz2-colda.douyinvod.com.cdn.chinamobile.com
+#DOMAIN-SUFFIX,v26-music.douyinstatic.com.51296c5e.c.cdnhwc1.com
+#DOMAIN-SUFFIX,p26-sign.douyinpic.com.51296c5e.c.cdnhwc1.com
+#DOMAIN-SUFFIX,v26-colda.douyinvod.com.51296c5e.c.cdnhwc1.com
+#DOMAIN-SUFFIX,v26-colda.douyinvod.com
+#DOMAIN-SUFFIX,douyinvod.com
+#DOMAIN-SUFFIX,iesdouyin.com
+#DOMAIN-SUFFIX,xiaohongshu.com
+#DOMAIN-SUFFIX,zijieapi.com
+#DOMAIN-SUFFIX,zijieimg.com
+#DOMAIN-SUFFIX,zjbyte.com
+#DOMAIN-SUFFIX,zjcdn.com
+#DOMAIN-SUFFIX,dig.bdurl.net
 
 
 # IP段匹配
-IP-CIDR,111.62.36.187:9681,no-resolve
-IP-CIDR,120.233.48.18:43861,no-resolve
-IP-CIDR,120.233.48.18:43861,no-resolve
+#IP-CIDR,111.62.36.187:9681,no-resolve
+#IP-CIDR,120.233.48.18:43861,no-resolve
+#IP-CIDR,120.233.48.18:43861,no-resolve
 
