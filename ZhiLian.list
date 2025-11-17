@@ -3,6 +3,7 @@
 # 内容：国内直连
 
 # 名字关键字匹配#
+PROCESS-NAME,baidu
 PROCESS-NAME,chinagoods
 PROCESS-NAME,huma.ysepan
 PROCESS-NAME,ysepan
@@ -16,6 +17,7 @@ PROCESS-NAME,aliexpress
 PROCESS-NAME,fedex
 
 # 域名关键字匹配
+DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,chinagoods
 DOMAIN-KEYWORD,huma.ysepan
 DOMAIN-KEYWORD,ysepan
@@ -32,6 +34,7 @@ DOMAIN-KEYWORD,aliexpress
 DOMAIN-KEYWORD,fedex
 
 # 域名后缀匹配
+DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,chinagoods.com
 DOMAIN-SUFFIX,fuwu.chinagoods.com
 DOMAIN-SUFFIX,work.chinagoods.com
