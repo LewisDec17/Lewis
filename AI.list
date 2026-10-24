@@ -1,9 +1,22 @@
-# 内容：OpenAi Bard anthropic
+# 内容：所有Ai/Si的询问网络的IP
 # 域名关键字匹配
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
-DOMAIN-KEYWORD,Claude
+DOMAIN-KEYWORD,capafy
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,gemini
+DOMAIN-KEYWORD,makersuite
+DOMAIN-KEYWORD,chatgpt
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,grok
+DOMAIN-KEYWORD,xai
+
 # 域名后缀匹配
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,anthropic.ai
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
@@ -24,3 +37,17 @@ DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
+DOMAIN-SUFFIX,capafy.ai
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,xai.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,tweetdeck.com
+
+# 节点服务器 IP CIDR 匹配（基于官方网站使用的 Cloudflare 边缘节点）
+IP-CIDR,172.66.40.105/32,no-resolve
+IP-CIDR,104.21.0.0/16,no-resolve
