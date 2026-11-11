@@ -70,3 +70,10 @@ IP-CIDR,52.182.143.212/32,no-resolve
 IP-CIDR,142.251.154.119/32,no-resolve
 IP-CIDR,162.159.140.229/32,no-resolve
 IP-CIDR,142.251.215.170/32,no-resolve
+IP-CIDR,142.251.151.119/32,no-resolve
+IP-CIDR,140.82.113.26/32,no-resolve
+IP-CIDR,142.251.45.10/32,no-resolve
+IP-CIDR,17.57.145.135/32,no-resolve
+IP-CIDR,4.145.11.36/32,no-resolve
+IP-CIDR,43.175.7.20/32,no-resolve
+
